@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/context-counter/static/css/main.bdbddb58.css",
+    "main.js": "/context-counter/static/js/main.52a4520f.js",
+    "index.html": "/context-counter/index.html",
+    "main.bdbddb58.css.map": "/context-counter/static/css/main.bdbddb58.css.map",
+    "main.52a4520f.js.map": "/context-counter/static/js/main.52a4520f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdbddb58.css",
+    "static/js/main.52a4520f.js"
+  ]
+}
